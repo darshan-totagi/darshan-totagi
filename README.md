@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-totagi&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-totagi" /> </p>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning advanced full-stack development , AI-ML and exploring software engineering concepts — passionate about building efficient, user-focused applications.**
+- 🌱 I’m currently learning **advanced full-stack development , AI-ML and exploring software engineering concepts — passionate about building efficient, user-focused applications.**
 
 - 📫 How to reach me **darshantotagi7975@gmail.com**
 
