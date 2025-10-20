@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-totagi&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-totagi" /> </p>
 
 - 🌱 I’m currently learning **advanced full-stack development , AI-ML and exploring software engineering concepts — passionate about building efficient, user-focused applications.**
 
