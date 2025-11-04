@@ -2,8 +2,9 @@
 
 <!-- Hero Tech Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/hkAEBqZ.gif" alt="Tech Scene Animation" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
 </p>
+
 
 
 <h1 align="center">
