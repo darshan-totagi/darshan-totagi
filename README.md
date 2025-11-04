@@ -1,5 +1,6 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
+<video src="https://user-images.githubusercontent.com/yourusername/techscene.mp4" autoplay loop muted width="800"></video>
 
 
 
@@ -49,9 +50,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation">
-</p>
+
 
 ---
 
