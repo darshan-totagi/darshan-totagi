@@ -1,10 +1,9 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
 <p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Tech Scene Video" width="600"/>
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
 </p>
+
 
 
 
