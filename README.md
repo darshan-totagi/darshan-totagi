@@ -1,14 +1,6 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
-<!-- Hero Tech Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
-</p>
 
-
-
-<p align="center">
-  <img src="https://i.imgur.com/hkAEBqZ.gif" alt="Tech Animation" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Darshan Totagi</h1>
