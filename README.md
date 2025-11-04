@@ -1,21 +1,13 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
-<video src="https://user-images.githubusercontent.com/yourusername/techscene.mp4" autoplay loop muted width="800"></video>
-
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
-</p>
-
-
-
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
   Hey, I'm <a href="https://github.com/darshan-totagi" target="_blank">Darshan Totagi</a>
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
+</p>
 
 <h3 align="center">
   🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌐 Open Source Contributor
