@@ -1,5 +1,15 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
+<!-- Tech Developer Desk Animation -->
+![Tech Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
+<!-- Futuristic Code Flow Scene -->
+![Futuristic Scene](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/coding.gif)
+
+<!-- Neon Cyber Workspace -->
+![Neon Scene](https://i.pinimg.com/originals/f6/37/4b/f6374b64d2a62e9fca52a6ec35a8c706.gif)
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding animation"/>
 </p>
