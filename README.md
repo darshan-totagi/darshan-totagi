@@ -7,18 +7,17 @@
 
 
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
-  Hey, I'm <a href="https://github.com/darshan-totagi" target="_blank">Darshan Totagi</a>
-</h1>
+<p align="center">
+  <img src="https://i.imgur.com/hkAEBqZ.gif" alt="Tech Animation" width="100%" />
+</p>
 
-<h3 align="center">
-  🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌐 Open Source Contributor
-</h3>
+<h1 align="center">Hey 👋, I'm Darshan Totagi</h1>
+<h3 align="center">Full Stack Developer | Open Source | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Building+Cool+Things!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
 </p>
+
 
 ---
 
