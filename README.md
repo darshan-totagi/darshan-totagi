@@ -1,5 +1,12 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
+<p align="center">
+  <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Tech Scene Video" width="600"/>
+  </a>
+</p>
+
+
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
