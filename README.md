@@ -1,8 +1,6 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=👨‍💻+Full+Stack+Developer;🌐+Open+Source+Contributor;⚡+Building+Futuristic+Web+Apps;🚀+Always+Learning+%26+Innovating" alt="Typing Animation">
-</h1>
+
 
 
 
@@ -22,9 +20,9 @@
   🚀 Full Stack Developer | 💡 Tech Enthusiast | 🌐 Open Source Contributor
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Building+Cool+Things!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=👨‍💻+Full+Stack+Developer;🌐+Open+Source+Contributor;⚡+Building+Futuristic+Web+Apps;🚀+Always+Learning+%26+Innovating" alt="Typing Animation">
+</h1>
 
 
 ---
