@@ -1,25 +1,103 @@
-<h1 align="center">Hi 👋, I'm Darshan Totagi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- 🌟 DARSHAN TOTAGI - GITHUB PROFILE README 🌟 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-totagi&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-totagi" /> </p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  Hey there, I'm <a href="https://github.com/darshan-totagi" target="_blank">Darshan Totagi</a> 👨‍💻
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshan-totagi" alt="darshan-totagi" /></a> </p>
+<h3 align="center">🚀 Full Stack Developer | 💡 Innovator | 🌐 Open Source Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning advanced full-stack development , AI-ML and exploring software engineering concepts — passionate about building efficient, user-focused applications.**
+---
 
-- 📫 How to reach me **darshantotagi7975@gmail.com**
+### ✨ About Me
+🎯 I’m passionate about **building impactful web solutions** and exploring **AI/ML applications**.  
+💻 Skilled in **React, Node.js, Python, Django, Flask, and TensorFlow**.  
+🚀 Always eager to collaborate on **innovative and community-driven projects**.  
+🌱 Currently learning **Advanced Full Stack Development, AI-ML**, and deep-diving into **software engineering principles**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darshan-totagi-5bb003287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-totagi-5bb003287/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/darshantotagi791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/darshantotagi791" height="30" width="40" /></a>
+📫 **Reach me at:** [darshantotagi7975@gmail.com](mailto:darshantotagi7975@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan-totagi-5bb003287/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/darshantotagi791" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:darshantotagi7975@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-totagi&show_icons=true&locale=en&layout=compact" alt="darshan-totagi" /></p>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,flask,django,mongodb,mysql,git,bootstrap,opencv,tensorflow,vue,blender&perline=8" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-totagi&show_icons=true&locale=en" alt="darshan-totagi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-totagi&" alt="darshan-totagi" /></p>
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshan-totagi&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+### ⚡ GitHub Stats & Streaks
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darshan-totagi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-totagi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-totagi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌀 Dynamic Typing Animation
+<p align="center">
+  <a href="https://github.com/darshan-totagi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+💻;Open+Source+Contributor+🌐;AI+%26+ML+Learner+🤖;Problem+Solver+🚀;Always+Learning+New+Things+🔥">
+  </a>
+</p>
+
+---
+
+### 💬 Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." 😄  
+
+---
+
+### 🎮 Aesthetic GitHub Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshan-totagi&style=for-the-badge&color=blueviolet&label=Profile+Views" />
+</p>
+
+---
+
+### 🖼️ GitHub Contribution Snake 🐍
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshan-totagi/darshan-totagi/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
