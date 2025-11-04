@@ -1,5 +1,11 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
+<!-- Hero Tech Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/hkAEBqZ.gif" alt="Tech Scene Animation" width="100%" />
+</p>
+
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
   Hey, I'm <a href="https://github.com/darshan-totagi" target="_blank">Darshan Totagi</a>
