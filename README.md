@@ -1,13 +1,9 @@
 <!-- ⚡ DARSHAN TOTAGI | TECH GIANT STYLE GITHUB README ⚡ -->
 
-<!-- Tech Developer Desk Animation -->
-![Tech Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=👨‍💻+Full+Stack+Developer;🌐+Open+Source+Contributor;⚡+Building+Futuristic+Web+Apps;🚀+Always+Learning+%26+Innovating" alt="Typing Animation">
+</h1>
 
-<!-- Futuristic Code Flow Scene -->
-![Futuristic Scene](https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/coding.gif)
-
-<!-- Neon Cyber Workspace -->
-![Neon Scene](https://i.pinimg.com/originals/f6/37/4b/f6374b64d2a62e9fca52a6ec35a8c706.gif)
 
 
 <p align="center">
