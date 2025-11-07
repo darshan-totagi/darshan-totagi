@@ -18,7 +18,7 @@
 </h1>
 
 <h3>🚀 Hacktoberfest Badges </h3>
-[![An image of @darshantotagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshantotagi)](https://holopin.io/@darshantotagi)
+
 
 ### 🚀 Hacktoberfest Badge 
 <p align="center">
