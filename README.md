@@ -17,6 +17,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=👨‍💻+Full+Stack+Developer;🌐+Open+Source+Contributor;⚡+Building+Futuristic+Web+Apps;🚀+Always+Learning+%26+Innovating" alt="Typing Animation">
 </h1>
 
+[![An image of @darshantotagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshantotagi)](https://holopin.io/@darshantotagi)
+
 
 ---
 
