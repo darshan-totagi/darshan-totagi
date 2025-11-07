@@ -20,7 +20,7 @@
 <h3>🚀 Hacktoberfest Badges </h3>
 <p align="center">
   <a href="https://holopin.me/darshantotagi">
-    <img src="https://holopin.io/@darshantotagi" alt="@darshantotagi Holopin badges" />
+    <img src="https://holopin.io/@darshantotagi" />
   </a>
 </p>
 
